@@ -8,6 +8,6 @@ Welcome to OneRoster's documentation!
 
 Contents:
 
-_Python: index
+Link text <install>
 
 
