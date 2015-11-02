@@ -8,6 +8,10 @@ Welcome to OneRoster's documentation!
 
 Contents:
 
-Link text <install>
+.. toctree::
+   :maxdepth: 2
 
+   intro
+   install
+   
 
