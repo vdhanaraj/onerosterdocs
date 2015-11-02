@@ -1,6 +1,2 @@
-Here are the installation directions
+Installing
 =====================================
-
-Contents:
-
-_Python: index

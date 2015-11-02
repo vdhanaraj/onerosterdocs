@@ -1,5 +1,6 @@
-Here are some ideas about the product
+What is OneRoster?
 =====================================
-Here is a detailed description of the project
+OneRoster is means of blah blah blah
 
-:doc:`install`
+Please continue on to reas about the prerequisites
+:doc:`prerequisites`
