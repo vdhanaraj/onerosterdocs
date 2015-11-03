@@ -6,7 +6,7 @@ Please read up on what this project is all about before you continue
 :doc:`intro`
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    intro
    prerequisites
    install
